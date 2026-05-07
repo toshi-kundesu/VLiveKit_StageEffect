@@ -12,6 +12,18 @@
                        "url":  "git+https://github.com/toshi-kundesu/VLiveKit_StageEffect.git"
                    },
     "license":  "Unlicense",
+    "samples":  [
+                    {
+                        "displayName":  "Empty Scene",
+                        "description":  "A blank scene for starting a VLiveKit StageEffect setup.",
+                        "path":  "Samples~/Empty Scene"
+                    },
+                    {
+                        "displayName":  "Codex VFX Test",
+                        "description":  "A small Visual Effect Graph spark fountain test prefab.",
+                        "path":  "Samples~/Codex VFX Test"
+                    }
+                ],
     "dependencies":  {
                          "com.unity.render-pipelines.high-definition":  "14.0.8",
                          "com.unity.visualeffectgraph":  "14.0.8"
