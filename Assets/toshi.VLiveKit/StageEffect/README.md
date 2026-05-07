@@ -5,7 +5,7 @@
 ## Package
 
 - Package name: `com.toshi.vlivekit.stageeffect`
-- Version: `0.0.1`
+- Version: `0.1.1`
 - Unity: 2022.3
 - Repository: https://github.com/toshi-kundesu/VLiveKit_StageEffect
 - Package root: `Assets/toshi.VLiveKit/StageEffect`
