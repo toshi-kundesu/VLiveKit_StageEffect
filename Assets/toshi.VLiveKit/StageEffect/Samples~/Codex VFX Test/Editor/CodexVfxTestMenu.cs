@@ -1,6 +1,10 @@
 using UnityEditor;
 using UnityEngine;
 
+/// <summary>
+/// Editor menu for dropping the package's Codex VFX validation prefab into the active scene.
+/// Kept in Samples~ so it documents and exercises StageEffect assets without adding runtime code.
+/// </summary>
 public static class CodexVfxTestMenu
 {
     private const string PrefabGuid = "63dfff70a4c5446cbb074956f4df1b42";
